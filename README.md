@@ -49,6 +49,6 @@ GitHub: AhirraoYash
 
 LinkedIn: LinkedIn Profile (Add your actual LinkedIn profile link)
 
-Email: yash.ahirrao@example.com
+Email: yashahirrao204@gmail.com
 
 Feel free to explore my repositories and connect with me for collaboration or just a friendly chat!
