@@ -8,7 +8,7 @@ I am currently pursuing an MCA at Indira College of Engineering and Management. 
 
 3rd Place in Codefest competition.
 
-Participated in the Rajasthan Government Contact Hackathon on IT Day 2023.
+Participated in the Rajasthan Government Hackathon on IT Day 2023.
 
 Earned certifications in TensorFlow and Java.
 
