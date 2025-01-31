@@ -2,7 +2,7 @@ Yash Ahirrao
 
 Welcome to my GitHub profile! I'm passionate about programming, chess, and building innovative projects. Here's a glimpse of what I do and how you can connect with me.
 
-🚀 About Me
+ About Me
 
 I am currently pursuing an MCA at Indira College of Engineering and Management. My interests lie in software development, problem-solving, and creating impactful applications. Some highlights of my journey:
 
