@@ -1,8 +1,8 @@
-Yash Ahirrao
+**Yash Ahirrao**
 
 Welcome to my GitHub profile! I'm passionate about programming, chess, and building innovative projects. Here's a glimpse of what I do and how you can connect with me.
 
- About Me
+** About Me**
 
 I am currently pursuing an MCA at Indira College of Engineering and Management. My interests lie in software development, problem-solving, and creating impactful applications. Some highlights of my journey:
 
@@ -14,7 +14,7 @@ Earned certifications in TensorFlow and Java.
 
 Active on HackerRank with 230 Hackon points.
 
-🛠️ Skills and Tools
+**Skills and Tools**
 
 Languages: Java, Python, JavaScript
 
@@ -24,9 +24,9 @@ Databases: PostgreSQL
 
 Version Control: Git
 
-Web Development: HTML, CSS, JavaScript
+Web Development: HTML, CSS, JavaScript,React
 
-🌟 Projects
+**Projects**
 
 BankMate
 
@@ -39,11 +39,10 @@ Transaction logging and tracking
 Secure UPI and card-based transactions
 
  
-📂 GitHub Stats
+GitHub Stats
 
 
-
-🌐 Connect with Me
+ **Connect with Me**
 
 GitHub: AhirraoYash
 
